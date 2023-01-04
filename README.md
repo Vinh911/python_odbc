@@ -6,7 +6,7 @@ A Python program for accessing and querying data in a specific ODBC database.
 
 - `main.py`: This is the entry point of the program. It calls the functions in the other files and executes them.
 - `dbConn.py`: This file contains the connection information for the database. You will need to modify this file with your own connection details.
-- `logicDatenzugriff.py`: This file contains all the functions that retrieve and display data from the database. The `getNiederlassung()` and `getMitarbeiter()` functions are already implemented. You will need to implement the `getAuftrag()` function.
+- `logicDatenzugriff.py`: This file contains all the functions that retrieve and display data from the database.
 
 ## Prerequisites
 
